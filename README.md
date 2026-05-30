@@ -42,11 +42,16 @@ This GitHub profile is my open workspace. It serves as a portfolio of the practi
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
 </p>
 
-### Sustainability & Food Science
+### Sustainability
 
 <p align="left">
   <img src="https://img.shields.io/badge/Sustainability_Strategies-4CAF50?style=for-the-badge" alt="Sustainability Strategies" />
   <img src="https://img.shields.io/badge/LCA_%26_ESG-2E8B57?style=for-the-badge" alt="LCA & ESG" />
+</p>
+
+### Food Science
+
+<p align="left">
   <img src="https://img.shields.io/badge/Food_Science_%26_Nutrition-FF8C00?style=for-the-badge" alt="Food Science & Nutrition" />
   <img src="https://img.shields.io/badge/R%26D_Laboratory-8B0000?style=for-the-badge" alt="R&D Laboratory" />
   <img src="https://img.shields.io/badge/TAC_|_TPC_|_HPLC-A52A2A?style=for-the-badge" alt="Lab Techniques" />
