@@ -61,16 +61,6 @@ This GitHub profile is my open workspace. It serves as a portfolio of the practi
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
-### Soft Skills & Methodologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Problem_Solving-FFD700?style=for-the-badge&logoColor=black" alt="Problem Solving" />
-  <img src="https://img.shields.io/badge/Critical_Thinking-FFA500?style=for-the-badge" alt="Critical Thinking" />
-  <img src="https://img.shields.io/badge/Design_Thinking-E91E63?style=for-the-badge" alt="Design Thinking" />
-  <img src="https://img.shields.io/badge/Cross--cultural_Teamwork-1E90FF?style=for-the-badge" alt="Cross-cultural Teamwork" />
-  <img src="https://img.shields.io/badge/Time_Management-607D8B?style=for-the-badge" alt="Time Management" />
-</p>
-
 ---
 
 ## 👋 Let's Connect
